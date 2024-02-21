@@ -9,7 +9,7 @@ Facilisis sed odio morbi quis commodo. Nulla facilisi nullam vehicula ipsum a ar
 
 ## this is from feature branch
 
-# this is git and github
+# this is git and
 
 this a javascript line 
 
